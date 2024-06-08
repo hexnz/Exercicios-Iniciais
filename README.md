@@ -1,2 +1,2 @@
-# ExerciciosIniciais
+# Exercicios-Iniciais
 Exercicios diversos 
