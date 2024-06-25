@@ -1,2 +1,0 @@
-# ExerciciosIniciais
-Exercicios diversos 
